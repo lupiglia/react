@@ -1,6 +1,6 @@
 const GaleriaPage=(props)=>{
     return(
-        <div> hola soy la galeria pai</div>
+        <div>En cosntrucción.</div>
     )
 }
 export default GaleriaPage;

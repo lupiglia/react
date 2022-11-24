@@ -3,7 +3,7 @@ const Footer = (props) => {
     return(
         <footer>
         <p>Designed by: </p>
-        <p>Secret Identity /2022</p>
+        <p>Pigliapoco Luciano /2022</p>
     </footer>
     )
 }
